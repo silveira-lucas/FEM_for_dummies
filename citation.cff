@@ -6,3 +6,4 @@ authors:
 title: "Total Lagrange finite element code in Python and documentation"
 version: 1.0.0
 date-released: 2021-11-30
+url: "https://github.com/silveira-lucas/Nonlinear_FEM"
